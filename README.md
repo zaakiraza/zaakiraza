@@ -4,5 +4,5 @@ I am a passionate front-end developer and Computer Science student at Mohammad A
 
 🌐 Socials:
 <hr/>
-<a src="https://zaakiraza.github.io/Portfolio/"></i>Facebook<a/>  
-<a src="https://www.linkedin.com/in/zakiraza404/">Linkedin<a/>
+<a href="https://zaakiraza.github.io/Portfolio/"></i>Facebook<a/>  
+<a href="https://www.linkedin.com/in/zakiraza404/">Linkedin<a/>
