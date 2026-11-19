@@ -2,14 +2,14 @@
 
 <p align="center">
   <strong>MERN Stack Developer</strong><br/>
-  BackEnd Developer @ OffTheSchool · Current ACM Code Club Member @ MAJU
+  FullStack Developer @ OffTheSchool · Current ACM Code Club Member @ MAJU
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zakiraza404/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://zaakiraza.github.io/Portfolio/" target="_blank">
+  <a href="https://zakiraza.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
@@ -18,10 +18,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate Mern stack developer with over 1 years of experience building scalable platforms, clean UIs, and API-driven architectures.
+I'm a passionate Full stack developer with over 3 years of experience building scalable platforms, clean UIs, and API-driven architectures.
 
-💼 Currently a Backend developer at **OffTheSchool**  
-🎓 Current ACM Code CLub Member @ **MAJU**  
+💼 Worked as a Backend developer @ **OffTheSchool**  
+🎓 ACM Code CLub Member @ **MAJU**  
 🧠 I thrive on solving complex problems and delivering impactful solutions. Let’s build the future together!
 
 ---
